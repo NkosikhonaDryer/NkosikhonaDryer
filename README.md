@@ -1,17 +1,25 @@
-<h1 align="center">Greetings World, My name is Nkosikhona Msweli</h1>
-<h3 align="center">I am a Full-Stack Developer or Data Scientist. I Graduated from Durban University of Technology. I am passionate with coding and I am willing to learn more. I have worked on Projects which assisted me with gaining exposure to a lot of programming tools.</h3>
+<h1 align="center">Nkosikhona Msweli</h1>
+<h3 align="center">Full-Stack Developer | Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkosikhonadryer&label=Profile%20views&color=0e75b6&style=flat" alt="nkosikhonadryer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dryermsweli" target="blank"><img src="https://img.shields.io/twitter/follow/dryermsweli?logo=twitter&style=for-the-badge" alt="dryermsweli" /></a> </p>
 
-- 🔭 I’m currently working on **Face Recognition System**
+I am a Junior Software Developer Intern at Conversion Science, bringing expertise in software development and data science. Graduated from Durban University of Technology with a passion for innovative tech solutions and continuous learning.
 
-- 🌱 I’m currently learning **nodejs, , React, pandas, opencv, selenium**
+🚀 Currently expanding my skills in:
+- Full-stack web development
+- Data science and machine learning
+- Software engineering best practices
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence projects**
+💡 Passionate about solving complex problems through technology and creating impactful digital solutions.
 
-- 📫 How to reach me **nkosikhonadryer3@gmail.com**
+### Technical Skills
+- Languages: JavaScript, Python, and other programming tools
+- Technologies: Web development frameworks, data analysis tools
+- Currently gaining hands-on experience in professional software development
+
+📫 Let's connect! Always open to collaborative projects and learning opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
