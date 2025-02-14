@@ -1,5 +1,5 @@
 <h1 align="center">Greetings World, My name is Nkosikhona Msweli</h1>
-<h3 align="center">I am a Full-Stack Developer or Data Scientist. I Graduated at Durban University of Technology. I am passionate with coding and I am willing to learn more. I have worked on Projects which assisted me with gaining exposure to a lot of programming tools.</h3>
+<h3 align="center">I am a Full-Stack Developer or Data Scientist. I Graduated from Durban University of Technology. I am passionate with coding and I am willing to learn more. I have worked on Projects which assisted me with gaining exposure to a lot of programming tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkosikhonadryer&label=Profile%20views&color=0e75b6&style=flat" alt="nkosikhonadryer" /> </p>
 
