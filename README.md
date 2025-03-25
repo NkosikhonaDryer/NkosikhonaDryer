@@ -8,7 +8,7 @@
 I am a Junior Software Developer Intern at Conversion Science, bringing expertise in software development and data science. Graduated from Durban University of Technology with a passion for innovative tech solutions and continuous learning.
 
 🚀 Currently expanding my skills in:
-- Full-stack web development
+- Full-stack software development
 - Data science and machine learning
 - Software engineering best practices
 
