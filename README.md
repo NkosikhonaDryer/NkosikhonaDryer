@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dryermsweli" target="blank"><img src="https://img.shields.io/twitter/follow/dryermsweli?logo=twitter&style=for-the-badge" alt="dryermsweli" /></a> </p>
 
-I am a *Software Developer* at Conversion Science, a performance marketing company, where I build internal tools and automated systems that power the team's daily operations. My work sits at the intersection of software engineering, data engineering, and marketing technology — designing pipelines, APIs, and workflows that replace manual processes with reliable, scalable automation.
+I am a *Software Developer* at Conversion Science, a performance marketing company, where I build tools and automated systems that power the team's daily operations. My work sits at the intersection of software engineering, data engineering, and marketing technology — designing pipelines, APIs, and workflows that replace manual processes with reliable, scalable automation.
 
 🚀 Currently working with:
 - Marketing API integrations (Meta, Google Ads, Zoho CRM, Gmail)
