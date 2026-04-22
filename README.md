@@ -1,11 +1,11 @@
 <h1 align="center">Nkosikhona Msweli</h1>
-<h3 align="center">Software Developer | Marketing Automation & Data Engineering</h3>
+<h3 align="center">Software Engineer | Marketing Automation & Data Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkosikhonadryer&label=Profile%20views&color=0e75b6&style=flat" alt="nkosikhonadryer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dryermsweli" target="blank"><img src="https://img.shields.io/twitter/follow/dryermsweli?logo=twitter&style=for-the-badge" alt="dryermsweli" /></a> </p>
 
-I am a *Software Developer* at Conversion Science, a performance marketing company, where I build tools and automated systems that power the team's daily operations. My work sits at the intersection of software engineering, data engineering, and marketing technology — designing pipelines, APIs, and workflows that replace manual processes with reliable, scalable automation.
+I am a *Software Engineer* at Conversion Science, a performance marketing company, where I build tools and automated systems that power the team's daily operations. My work sits at the intersection of software engineering, data engineering, and marketing technology — designing pipelines, APIs, and workflows that replace manual processes with reliable, scalable automation.
 
 🚀 Currently working with:
 - Marketing API integrations (Meta, Google Ads, Zoho CRM, Gmail)
